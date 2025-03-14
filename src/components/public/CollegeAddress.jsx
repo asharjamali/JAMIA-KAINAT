@@ -11,18 +11,18 @@ const CollegeAddress = () => {
           src={"/MEC Logo.jpeg"}
           width={150}
           height={150}
-          alt="Mewat Engineering college "
+          alt="Jamia kainat "
         />
       </div>
       <div className="flex-1">
         <h4 className="text-xl font-semibold text-primary-regular">
-          Mewat Engineering College , Nuh Mewat
+          Jamia kainat , kainat nagar kako
         </h4>
         <div className="flex gap-4 py-4 items-center">
           <FontAwesomeIcon className="text-4xl ml-4" icon={faLocationDot} />
           <address>
-           Palla, District Nuh, Mewat, <br />
-           Haryana-122107 India
+            Palla, District Nuh, Mewat, <br />
+            Haryana-122107 India
           </address>
         </div>
       </div>

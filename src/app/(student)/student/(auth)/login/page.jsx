@@ -3,9 +3,9 @@ import Form from "./components/Form";
 import Link from "next/link";
 
 export const metadata = {
-  title: "Student Login Portal - Mewat Engineering College, Mewat",
+  title: "Student Login Portal - Jamia kainat",
   description:
-    "Welcome to Mewat Engineering College, located in Mewat, Haryana. We offer a wide range of UG, PG, and Vocational programs such as BCA, BBA, BJMC, and BMLT. As a government-owned college affiliated with Gurugram University, we provide quality education for 12th pass students seeking UG degrees and specialized vocational programs. Explore our comprehensive curriculum and dynamic learning environment to shape a successful future.",
+    "Welcome to Jamia kainat, located in kako jehanabad bihar. We offer a wide range of UG, PG, and Vocational programs such as BCA, BBA, BJMC, and BMLT. As a government-owned college affiliated with Gurugram University, we provide quality education for 12th pass students seeking UG degrees and specialized vocational programs. Explore our comprehensive curriculum and dynamic learning environment to shape a successful future.",
 };
 
 const Login = () => {
@@ -15,7 +15,7 @@ const Login = () => {
       <div className="flex flex-col max-w-sm mx-auto border rounded-sm px-4 py-6 items-center justify-center bg-white shadow-2xl shadow-blue-900">
         <Image
           src={"/mcc-icon.png"}
-          alt={"Mewat Engineering College"}
+          alt={"Jamia kainat"}
           width={100}
           height={100}
         />

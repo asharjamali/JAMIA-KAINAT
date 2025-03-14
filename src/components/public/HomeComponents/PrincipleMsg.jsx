@@ -15,7 +15,7 @@ const PrincipleMsg = () => {
               src={"/Director-Sir.jpg"}
               height={300}
               width={300}
-              alt="Mewat Engineering College"
+              alt="Jamia kainat"
             />
           </div>
 

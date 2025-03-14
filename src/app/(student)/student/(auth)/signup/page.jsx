@@ -4,9 +4,9 @@ import SignUpForm from "./components/Form";
 import styles from "../login/styles.module.css";
 
 export const metadata = {
-  title: "Student Registration Page - Mewat Engineering College, Mewat",
+  title: "Student Registration Page - Jamia kainat",
   description:
-    "Welcome to Mewat Engineering College, located in Mewat, Haryana. We offer a wide range of UG, PG, and Vocational programs such as BCA, BBA, BJMC, and BMLT. As a government-owned college affiliated with Gurugram University, we provide quality education for 12th pass students seeking UG degrees and specialized vocational programs. Explore our comprehensive curriculum and dynamic learning environment to shape a successful future.",
+    "Welcome to Jamia kainat, located in Mewat, Haryana. We offer a wide range of UG, PG, and Vocational programs such as BCA, BBA, BJMC, and BMLT. As a government-owned college affiliated with Gurugram University, we provide quality education for 12th pass students seeking UG degrees and specialized vocational programs. Explore our comprehensive curriculum and dynamic learning environment to shape a successful future.",
 };
 
 const SignUp = () => {
@@ -18,7 +18,7 @@ const SignUp = () => {
             <div className="bg-white p-4 max-w-fit mx-auto flex flex-col items-center rounded-sm shadow-lg ">
               <Image
                 src="/mcc-icon.png"
-                alt="Mewat Engineering College"
+                alt="Jamia kainat"
                 width={100}
                 height={100}
               />

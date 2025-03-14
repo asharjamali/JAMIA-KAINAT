@@ -13,9 +13,9 @@ library.add(fab);
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Mewat Engineering College, Mewat",
+  title: "Jamia kainat",
   description:
-    "Welcome to Mewat Engineering College, located in Mewat, Haryana. We offer a wide range of UG, PG, and Vocational programs such as BCA, BBA, BJMC, and BMLT. As a government-owned college affiliated with Gurugram University, we provide quality education for 12th pass students seeking UG degrees and specialized vocational programs. Explore our comprehensive curriculum and dynamic learning environment to shape a successful future.",
+    "Welcome to Jamia kainat, located in kako, jehanabad bihar. We offer a wide range of UG, PG, and Vocational programs such as BCA, BBA, BJMC, and BMLT. As a government-owned college affiliated with madarsa board, we provide quality education for 12th pass students seeking UG degrees and specialized vocational programs. Explore our comprehensive curriculum and dynamic learning environment to shape a successful future.",
 
   viewport: {
     width: "device-width",

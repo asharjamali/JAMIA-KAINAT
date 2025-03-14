@@ -11,9 +11,9 @@ import {
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 export const metadata = {
-  title: "Ug Programs - Mewat Engineering College, Mewat",
+  title: "Ug Programs - , Mewat",
   description:
-    "Welcome to Mewat Engineering College, located in Mewat, Haryana. We offer a wide range of UG, PG, and Vocational programs such as BCA, BBA, BJMC, and BMLT. As a government-owned college affiliated with Gurugram University, we provide quality education for 12th pass students seeking UG degrees and specialized vocational programs. Explore our comprehensive curriculum and dynamic learning environment to shape a successful future.",
+    "Welcome to , located in Mewat, Haryana. We offer a wide range of UG, PG, and Vocational programs such as BCA, BBA, BJMC, and BMLT. As a government-owned college affiliated with Gurugram University, we provide quality education for 12th pass students seeking UG degrees and specialized vocational programs. Explore our comprehensive curriculum and dynamic learning environment to shape a successful future.",
 };
 
 const UgPrograms = () => {
@@ -154,7 +154,7 @@ const UgPrograms = () => {
       {/* // Courses We Offer */}
       <Heading2 headingText={"Exploring UG Courses"} />
       <p className="my-8">
-        At Mewat Engineering College, we offer a variety of UG courses designed
+        At , we offer a variety of UG courses designed
         to meet the diverse interests of our students.
       </p>
       <div className="max-w-full overflow-hidden">
@@ -186,7 +186,7 @@ const UgPrograms = () => {
               Commerce (B.com)
             </h3>
             <p className="text-slate-600 mb-4">
-              Mewat Engineering College offers a range of B.Com courses,
+              offers a range of B.Com courses,
               providing students with a solid foundation in commerce and
               business practices
             </p>
@@ -217,14 +217,14 @@ const UgPrograms = () => {
       <div className="mb-10">
         <Heading3 headingText={"Empowering Your Academic Journey"} />
         <p className="my-4">
-          At Mewat Engineering College, our UG courses are designed to foster
+          At , our UG courses are designed to foster
           intellectual growth, critical thinking, and holistic development. We
           believe in nurturing well-rounded individuals who are not only experts
           in their chosen fields but also responsible citizens and leaders.
         </p>
         <p className="my-4">
           With dedicated faculty, modern facilities, and a vibrant campus
-          community, Mewat Engineering College is your gateway to pursuing your
+          community,  is your gateway to pursuing your
           passions and achieving academic excellence in your UG journey.
         </p>
       </div>

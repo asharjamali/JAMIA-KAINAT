@@ -25,9 +25,8 @@ export default function RootLayout({ children }) {
       <div className="min-h-screen max-h-screen flex flex-col sm:flex-row h-screen">
         {/* ======= Left Side Container ======= */}
         <div
-          className={`flex flex-col fixed top-0 sm:relative sm:translate-x-0 ${
-            isMenuOpen ? "translate-x-0" : " -translate-x-full"
-          } duration-500 w-fit  max-h-full overflow-y-auto no-scrollbar bg-blue-900 z-50 h-screen`}
+          className={`flex flex-col fixed top-0 sm:relative sm:translate-x-0 ${isMenuOpen ? "translate-x-0" : " -translate-x-full"
+            } duration-500 w-fit  max-h-full overflow-y-auto no-scrollbar bg-blue-900 z-50 h-screen`}
         >
           {/* ======= College Logo ======= */}
           <div className="relative h-fit sm:bg-primary-regular p-1 pb-2 w-full">
@@ -45,7 +44,7 @@ export default function RootLayout({ children }) {
                 src={"/logo.webp"}
                 height={45}
                 width={150}
-                alt="Mewat Engineering College"
+                alt="Jamia kainat"
               />
             ) : (
               <Image

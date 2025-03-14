@@ -6,9 +6,9 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import React from "react";
 
 export const metadata = {
-  title: "PG Programs - Mewat Engineering College, Mewat",
-  description:
-    "Welcome to Mewat Engineering College, located in Mewat, Haryana. We offer a wide range of UG, PG, and Vocational programs such as BCA, BBA, BJMC, and BMLT. As a government-owned college affiliated with Gurugram University, we provide quality education for 12th pass students seeking UG degrees and specialized vocational programs. Explore our comprehensive curriculum and dynamic learning environment to shape a successful future.",
+  title: "" Programs - Jamia kainat",
+description:
+"Welcome to Jamia kainat, located in Kako jehanabad bihar. We offer a wide range of UG, PG, and Vocational programs such as BCA, BBA, BJMC, and BMLT. As a government-owned college affiliated with Gurugram University, we provide quality education for 12th pass students seeking UG degrees and specialized vocational programs. Explore our comprehensive curriculum and dynamic learning environment to shape a successful future.",
 };
 
 const PgProgram = () => {
@@ -115,13 +115,13 @@ const PgProgram = () => {
   return (
     <article className="overflow-hidden sm:text-lg">
       <h1 className="text-xl sm:text-2xl font-bold my-2">
-        Postgraduate Courses at Mewat Engineering College, Mewat
+        Postgraduate Courses at Jamia kainat
       </h1>
       <hr />
 
       <p className="text-lg mt-4">
         <span className="text-4xl text-primary-regular font-bold">A</span>t
-        Mewat Engineering College, we are committed to providing a comprehensive
+        Jamia kainat, we are committed to providing a comprehensive
         education that extends beyond undergraduate programs. Our range of
         Postgraduate (PG) courses is designed to cater to diverse academic
         interests, empowering students to specialize in their chosen fields and
@@ -226,7 +226,7 @@ const PgProgram = () => {
       <section className="my-8">
         <Heading3 headingText={"Empowering Your Academic Journey"} />
         <p className="my-4">
-          Mewat Engineering College is dedicated to nurturing scholars who are
+          Jamia kainat is dedicated to nurturing scholars who are
           not only well-versed in their fields but also equipped with the
           critical thinking skills and ethical values necessary for a holistic
           education. Our PG courses combine rigorous academic training with
@@ -235,7 +235,7 @@ const PgProgram = () => {
         </p>
         <p className="my-4">
           With a commitment to academic excellence, renowned faculty, and a
-          supportive learning environment, Mewat Engineering College is your
+          supportive learning environment, Jamia kainat is your
           gateway to achieving your postgraduate aspirations.
         </p>
       </section>

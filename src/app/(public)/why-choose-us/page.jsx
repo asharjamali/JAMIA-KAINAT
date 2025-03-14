@@ -4,7 +4,7 @@ import Highlights from "@/components/public/HomeComponents/highlights/Index";
 import GetInTouch from "@/components/public/footer/GetInTouch";
 
 export const metadata = {
-  title: "Why Join Us - Mewat Engineering College, Mewat",
+  title: "Why Join Us - Jamia kainat",
   description:
     "Dear students, welcome to our college&lsquo;s virtual space. Here, we strive to create an environment that nurtures your dreams and empowers you to excel. Embrace opportunities, ignite your passion, and together lsquo;s embark on a transformative journey of knowledge, growth, and success. Best wishes for an enriching academic experience!",
 };
@@ -13,7 +13,7 @@ const WhyChooseUs = () => {
   return (
     <article className="max-w-screen-lg mx-auto p-4">
       <h1 className="text-primary-regular text-2xl font-bold">
-        Why Choose Us - Mewat Engineering College
+        Why Choose Us - Jamia kainat
       </h1>
 
       <div className="border-t-4 border-primary-regular p-4 shadow-lg my-4 rounded-md">

@@ -9,7 +9,7 @@ const LogoAndInfo = () => {
         <Link href={"/"}>
           <Image
             src={"/MEC Logo.jpeg"}
-            alt="Mewat Engineering College"
+            alt="Jamia kainat"
             width={100}
             height={40}
           />
@@ -18,9 +18,9 @@ const LogoAndInfo = () => {
         {/* Responsive and closer text block */}
         <div className="ml-4 flex-1 text-left">
           <h1 className="text-2xl md:text-5xl font-bold">
-            Mewat Engineering College
+            Jamia kainat
           </h1>
-          <p className="text-lg md:text-2xl font-medium">Haryana Wakf Board</p>
+          <p className="text-lg md:text-2xl font-medium">Madarsa education Board</p>
         </div>
 
         {/* Button */}

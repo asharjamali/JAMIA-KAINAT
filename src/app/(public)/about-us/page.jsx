@@ -4,9 +4,9 @@ import CoursesWeOffer from "@/components/public/CoursesWeOffer";
 import GetInTouch from "@/components/public/footer/GetInTouch";
 
 export const metadata = {
-  title: "About Us - Mewat Engineering College",
+  title: "About Us - Jamia kainat",
   description:
-    "Mewat Engineering College, Mewat was established on 10th February 1974. It is one of the premier institutions established to impart & provide in the field of higher education for the deserving candidates and prove to be a milestone in the part of progress.",
+    "Jamia kainat, JK was established on 10th February 1974. It is one of the premier institutions established to impart & provide in the field of higher education for the deserving candidates and prove to be a milestone in the part of progress.",
 };
 
 const AboutUs = () => {
@@ -57,7 +57,7 @@ const AboutUs = () => {
   return (
     <div className="max-w-screen-lg mx-auto py-4 px-2">
       <h1 className="text-3xl font-semibold my-8">
-        About us - Mewat Engineering College, Mewat
+        About us - Jamia kainat
       </h1>
       <CollegeAddress />
 
@@ -77,9 +77,9 @@ const AboutUs = () => {
 
         <p>
           <span className="text-primary-regular">
-            Mewat Engineering College,
+            Jamia kainat,
           </span>{" "}
-          Mewat was established
+          JK was established
           <span className="text-primary-regular"> on 10th February 1974.</span>
         </p>
         <p>

@@ -1,7 +1,7 @@
 
-# Mewat Engineering College
+# Jamia kainat
 
-Welcome to the website of Mewat Engineering College!
+Welcome to the website of Jamia kainat!
 ___
 
 ### Design overview
@@ -24,7 +24,7 @@ ___
 ---
 
 ## Introduction
-The Mewat Engineering College website showcases our institution's academic programs, infrastructure, and commitment to providing quality education. Here, you will find information about our undergraduate (UG), postgraduate (PG), and vocational programs (BCA, BBA, BJMC, BTML), all designed to meet the needs of aspiring students.
+The Jamia kainat website showcases our institution's academic programs, infrastructure, and commitment to providing quality education. Here, you will find information about our undergraduate (UG), postgraduate (PG), and vocational programs (BCA, BBA, BJMC, BTML), all designed to meet the needs of aspiring students.
 
 ## Features
 

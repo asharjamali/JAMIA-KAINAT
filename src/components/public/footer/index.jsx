@@ -13,8 +13,8 @@ const Footer = () => {
         <div className="col-span-3">
           <Image
             className="max-w-full invert self-center mx-auto"
-            src= {MEC_Logo}
-            alt="Mewat Engineering College"
+            src={MEC_Logo}
+            alt="Jamia kainat"
             height={200}
             width={300}
           />
@@ -22,7 +22,7 @@ const Footer = () => {
 
         {/* ======== Google Map ======= */}
         <div className="col-span-4">
-          <GoogleMap/>
+          <GoogleMap />
         </div>
 
         {/* ======== Get In Touch ========== */}
