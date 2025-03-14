@@ -37,12 +37,12 @@ export default function Warring() {
           Please be informed that this website is not affiliated with Mewat
           Engineering College. It has been independently developed by{" "}
           <a
-            href="https://zuridox-website-bolt.vercel.app/" // Replace with your website link
+            href="https://-website-bolt.vercel.app/" // Replace with your website link
             target="_blank"
             rel="noopener noreferrer"
             className="text-blue-600 underline"
           >
-            Zuridox
+            Ashhar jamali
           </a>
           . The data displayed on this website is for demonstration purposes
           only and holds no association with the college.
